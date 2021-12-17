@@ -1,2 +1,2 @@
 # spincoin.github.io
-renanschmitt.github.io
+it's a coin flip, LETS FLIP A COIN.
