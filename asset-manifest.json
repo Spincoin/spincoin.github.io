@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.004173b5.chunk.css",
+    "main.js": "/static/js/main.7f6f61c0.chunk.js",
+    "main.js.map": "/static/js/main.7f6f61c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.49a60e42.js",
+    "runtime-main.js.map": "/static/js/runtime-main.49a60e42.js.map",
+    "static/js/2.6bbdae33.chunk.js": "/static/js/2.6bbdae33.chunk.js",
+    "static/js/2.6bbdae33.chunk.js.map": "/static/js/2.6bbdae33.chunk.js.map",
+    "static/js/3.7c452307.chunk.js": "/static/js/3.7c452307.chunk.js",
+    "static/js/3.7c452307.chunk.js.map": "/static/js/3.7c452307.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.004173b5.chunk.css.map": "/static/css/main.004173b5.chunk.css.map",
+    "static/js/2.6bbdae33.chunk.js.LICENSE.txt": "/static/js/2.6bbdae33.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/static/media/about.c3cbb5a9.jpg",
+    "static/media/analytics.c5c6e708.jpg": "/static/media/analytics.c5c6e708.jpg",
+    "static/media/Login.css": "/static/media/background.d0228c8b.JPG",
+    "static/media/Contact.css": "/static/media/callout.1067fc01.jpg",
+    "static/media/cancel.3da871f7.svg": "/static/media/cancel.3da871f7.svg",
+    "static/media/fb.6a70a6d5.svg": "/static/media/fb.6a70a6d5.svg",
+    "static/media/hamburguer.27953dc7.svg": "/static/media/hamburguer.27953dc7.svg",
+    "static/media/hearth.700f7019.svg": "/static/media/hearth.700f7019.svg",
+    "static/media/insta.818f1ce0.svg": "/static/media/insta.818f1ce0.svg",
+    "static/media/lin.9f84848c.svg": "/static/media/lin.9f84848c.svg",
+    "static/media/loading.7165d27c.gif": "/static/media/loading.7165d27c.gif",
+    "static/media/mouse.d1850c63.svg": "/static/media/mouse.d1850c63.svg",
+    "static/media/network.6b90062f.mp4": "/static/media/network.6b90062f.mp4",
+    "static/media/seo.7af2e197.jpg": "/static/media/seo.7af2e197.jpg",
+    "static/media/share.10472632.svg": "/static/media/share.10472632.svg",
+    "static/media/sitecreate.c57eeefc.jpg": "/static/media/sitecreate.c57eeefc.jpg",
+    "static/media/smartphone.1cec8033.svg": "/static/media/smartphone.1cec8033.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49a60e42.js",
+    "static/js/2.6bbdae33.chunk.js",
+    "static/css/main.004173b5.chunk.css",
+    "static/js/main.7f6f61c0.chunk.js"
+  ]
+}
