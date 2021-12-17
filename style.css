@@ -1,0 +1,15 @@
+body {
+    background-color: green;
+    text-align: center;
+}
+
+h1, p {
+    color: ivory;
+    font-size: 90px;
+}
+
+p {
+    color: ivory;
+    font-size: 40px;
+}
+
